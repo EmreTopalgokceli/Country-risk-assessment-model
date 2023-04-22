@@ -22,5 +22,6 @@ In brief, the function I created and named as "OMM_logit" [OMM_logit(data1, data
 The execution of the code
 
 What I see on my console during the projection process is as follows. 
+
 ![image](https://user-images.githubusercontent.com/94282435/233812338-9be10ebf-f6cf-4803-9d63-f5430a11f29c.png)
 
