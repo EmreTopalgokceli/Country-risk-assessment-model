@@ -6,7 +6,7 @@ The following table is presented as an example to illustrate the expected outcom
 
 ![Screen Shot 2023-04-24 at 11 07 47](https://user-images.githubusercontent.com/94282435/234038296-5d17eabe-3de5-4e5e-a07b-ca23869702af.png)
 
-There are two models in the attached script (please see the Source column above). Both works based on the same principles but with different datasets. My aim is to make production for approximately 240 countries. However, one dataset has information on 200 countries and the other has information on approximately 40 countries. So, I run two models. At the end of the process, I will have a combined outcome for all ~240 countries like the one above.
+There are two models in the attached script (please see the Source column above). Both works based on the same principles but with different datasets. My aim is to make prediction for approximately 240 countries. However, one dataset has information on 200 countries and the other has information on approximately 40 countries. So, I run two models. At the end of the process, I will have a combined outcome for all ~240 countries like the one above.
 
 As it is seen in the attached Python script, my code starts with the below descriptions:
 
