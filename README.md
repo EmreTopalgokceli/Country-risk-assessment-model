@@ -1,4 +1,4 @@
-# Country-risk-assessment-model
+# Country risk assessment model
 
 Please imagine you work in an insurance company whose mission is to ensure the country’s exporters' risk abroad, and you want to develop an insurance pricing strategy. One of the critical components of your pricing strategy should be the evaluation of the risk associated with the buyer firms' country. For this purpose, I build a country risk assessment model using ordered logistic regression.
 
